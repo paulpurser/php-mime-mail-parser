@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/dpluspde/php/php-mime-mime-parser
+    - /bin/cp -r * $DEPLOYPATH
