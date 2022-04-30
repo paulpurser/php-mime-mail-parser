@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home1/dpluspde/github/php-mime-mail-parser/
+    - export DEPLOYPATH=/home1/dpluspde/github/php-mime-mail-parser
     - /bin/cp -r * $DEPLOYPATH
